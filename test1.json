@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "documentId": "lzhmw27jd3gpj9zom13r736x",
+            "name": "01 First Client",
+            "email": "firstclient@mail.com",
+            "requested_amount": "10000",
+            "loan_status": "approved",
+            "amount_given": "10000",
+            "amount_due": "15000",
+            "createdAt": "2026-03-18T14:54:22.745Z",
+            "updatedAt": "2026-03-18T14:54:22.745Z",
+            "publishedAt": "2026-03-18T14:54:22.738Z"
+        },
+        {
+            "id": 2,
+            "documentId": "imfcmmvmdg9f9yuhxil7vb4v",
+            "name": "02 Second Client",
+            "email": "secondclient@mail.com",
+            "requested_amount": "10000",
+            "loan_status": "rejected",
+            "amount_given": null,
+            "amount_due": null,
+            "createdAt": "2026-03-18T14:55:37.537Z",
+            "updatedAt": "2026-03-18T14:55:37.537Z",
+            "publishedAt": "2026-03-18T14:55:37.533Z"
+        },
+        {
+            "id": 3,
+            "documentId": "gxjmbfeww28z5l6m0flbw3cp",
+            "name": "03 Third Client",
+            "email": "thirdclient@mail.com",
+            "requested_amount": "10000",
+            "loan_status": "pending",
+            "amount_given": null,
+            "amount_due": null,
+            "createdAt": "2026-03-18T14:56:37.759Z",
+            "updatedAt": "2026-03-18T14:56:52.863Z",
+            "publishedAt": "2026-03-18T14:56:52.857Z"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
